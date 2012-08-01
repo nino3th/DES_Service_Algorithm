@@ -1,0 +1,5 @@
+D:\Project\Chamber\RD\DES_Service_Algorithm\DES_Service_Algorithm\bin\Debug\DES_SA.dll
+D:\Project\Chamber\RD\DES_Service_Algorithm\DES_Service_Algorithm\bin\Debug\DES_SA.pdb
+D:\Project\Chamber\RD\DES_Service_Algorithm\DES_Service_Algorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Chamber\RD\DES_Service_Algorithm\DES_Service_Algorithm\obj\Debug\DES_SA.dll
+D:\Project\Chamber\RD\DES_Service_Algorithm\DES_Service_Algorithm\obj\Debug\DES_SA.pdb
